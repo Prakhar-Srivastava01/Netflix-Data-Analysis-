@@ -63,7 +63,7 @@ Netflix-Data-Analysis/
 
 ```
 git clone https://github.com/Prakhar-Srivastava01/Netflix-Data-Analysis.git
-``'
+
 ### 3️⃣ Install Requirements
 
 ```
@@ -96,3 +96,4 @@ Developed by  #Prakhar Srivastava **
 
 ---
 ⭐ If you like this project, don't forget to star the repository!
+
